@@ -7,7 +7,7 @@ Modular Python engine for Statistical Process Control (SPC) designed to generate
 - pandas
 - matplotlib
 
-# Example Output (X-S Chart with detected special cause variation)
+# Example Output (X-S Chart with special cause variation)
 ![X-S Unstable](assets/X-S_unstable.png)
 
 # Core API 
@@ -78,21 +78,15 @@ Here is a preview of various control charts and capability analyses supported by
 
 ## Continuous Charts (Phase 1 & 2)
 
-**I-MR Chart**
 ![I-MR Stable](assets/I-MR_stable.png)
 
-**X-R Chart Triggering Nelson Rule Violations**
 ![X-R Unstable](assets/X-R_unstable_rule.png)
 
-**X-S Control Chart with Process Capability Analysis**
 ![X-S Capability](assets/X-S_capability.png)
 
 ## Attribute & Variable Sample Size Charts
-**P-Chart with Variable Subgroup Sizes (n)**
 ![P Chart Variable N](assets/p_variable_n.png)
 
-**C-Chart**
 ![C Chart Stable](assets/c_stable.png)
 
-**U-Chart Triggering Nelson Rule Violation**
 ![U Chart Rules](assets/u_unstable_rule.png)
