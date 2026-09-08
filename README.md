@@ -1,5 +1,5 @@
 # SPC Python Engine
-Modular Python engine for Statistical Process Control (SPC) designed to generate control charts (Phase 1 baseline and Phase 2 tracking), detect Western Electric / Nelson patterns, and calculate process capability (Cp and Cpk).
+Modular Python engine for Statistical Process Control (SPC) designed to generate control charts (Phase 1 baseline and Phase 2 tracking), detect Western Electric / Nelson patterns, and calculate process capability (Cp and Cpk). This project was originally built in R: [google drive link](https://drive.google.com/drive/u/0/folders/1q7SJstZm9wGaKL5HjAbBnxBRoUDOkZ-A)
 
 # Requirements
 - numpy
