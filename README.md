@@ -79,14 +79,14 @@ Here is a preview of various control charts and capability analyses supported by
 ## Continuous Charts (Phase 1 & 2)
 
 ![I-MR Stable](assets/I-MR_stable.png)
-
+<br><br>
 ![X-R Unstable](assets/X-R_unstable_rule.png)
-
+<br><br>
 ![X-S Capability](assets/X-S_capability.png)
 
 ## Attribute & Variable Sample Size Charts
 ![P Chart Variable N](assets/p_variable_n.png)
-
+<br><br>
 ![C Chart Stable](assets/c_stable.png)
-
+<br><br>
 ![U Chart Rules](assets/u_unstable_rule.png)
